@@ -30,7 +30,7 @@ analog task manager
 ├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
-https://github.com/420Ayan420/analog-task-manager/assets/88883638/3b9f3ca7-74de-4719-a709-8c0d5185f8f3
+https://github.com/420Ayan420/analog-task-manager/assets/88883638/ccab23b3-b3bc-4768-8666-490eeb304463
 
 # build instructions
 ## version v0.0
