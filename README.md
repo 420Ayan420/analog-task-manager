@@ -21,7 +21,12 @@ Let's make a Analog task manager inspired that allows us to display the CPU core
 # what's been done so far
 ## version v0.0
 1. Feasiblity analysis as proof of concept of pipeline.
-
+```
+analog task manager
+├── OpenHardwareMonitorLib.dll      # available through their source code.
+├── OpenHardwareMonitorLib.sys      # auto-produced
+└── ProgramMain v0.0.py             # feasibility analysis
+```
 # build instructions
 ## version v0.0
 1.  Use visual studio code for python script and Ardiuno IDE for Ardiuno code.
