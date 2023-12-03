@@ -30,6 +30,10 @@ analog task manager
 ├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
+See the following video for a demonstration of this code, the top LED lights up when the temperature exceed 51°C.
+
+https://github.com/420Ayan420/analog-task-manager/assets/88883638/63c14dab-c670-4c56-806e-0af1d9d13348
+
 # build instructions
 ## version v0.0
 1.  Use visual studio code for python script and Ardiuno IDE for Ardiuno code.
@@ -37,4 +41,4 @@ analog task manager
     1.  pip install pythonnet
     2.  pip install pyserial
 4.  Upload `sketch v0.0.ino` to your arduino using Arduino IDE
-5.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures) by using `python ProgramMain v0.0.py`
+5.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures) by using `python 'ProgramMain v0.0.py'`
