@@ -30,6 +30,7 @@ analog task manager
 ├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
+See the following video for a demonstration of this code, the top LED lights up when the temperature exceed 51°C.
 https://github.com/420Ayan420/analog-task-manager/assets/88883638/ccab23b3-b3bc-4768-8666-490eeb304463
 
 # build instructions
