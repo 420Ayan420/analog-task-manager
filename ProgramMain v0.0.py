@@ -1,4 +1,4 @@
-import clr
+import clr #IMPORTANT! pip install pythonnet, NOT pip install clr
 import serial
 import time
 
