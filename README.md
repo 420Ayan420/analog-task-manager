@@ -34,4 +34,5 @@ analog task manager
 2.  Install libraries using:
     1.  pip install pythonnet
     2.  pip install pyserial
-3.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures)
+4.  Upload `sketch v0.0.ino` to your arduino using Arduino IDE
+5.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures)
