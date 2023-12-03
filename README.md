@@ -25,6 +25,7 @@ Let's make a Analog task manager inspired that allows us to display the CPU core
 analog task manager
 ├── OpenHardwareMonitorLib.dll      # available through their source code.
 ├── OpenHardwareMonitorLib.sys      # auto-produced
+├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
 # build instructions
