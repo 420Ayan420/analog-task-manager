@@ -30,6 +30,7 @@ analog task manager
 ├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
+<iframe width="100%" height=500px src="https://www.youtube.com/embed/XGVtSRLHYPk" frameborder="0" allowfullscreen style="border-radius: 10px;"></iframe>
 # build instructions
 ## version v0.0
 1.  Use visual studio code for python script and Ardiuno IDE for Ardiuno code.
