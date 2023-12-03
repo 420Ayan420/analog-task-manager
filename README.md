@@ -20,7 +20,7 @@ Let's make a Analog task manager inspired that allows us to display the CPU core
 
 # what's been done so far
 ## version v0.0
-1. Feasibility analysis as proof of concept of pipeline.
+1. Feasibility analysis as proof of concept of pipeline. [see here for more information](https://ayanali.net/projects/2023-12-3-analog-task-manager/)
 ```
 analog task manager
 ├── OpenHardwareMonitorLib.dll      # available through their source code.
