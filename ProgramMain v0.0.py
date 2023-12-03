@@ -17,5 +17,5 @@ while True:
     for sensor in c.Hardware[1].Sensors:
         if sensor.SensorType == SensorType.Temperature and sensor.Value is not None:
             temperature = sensor.Value
-            print("GPU Temp is:", temperature).
+            print("GPU Temp is:", temperature)
             ser.write(f"{temperature}\n".encode())
