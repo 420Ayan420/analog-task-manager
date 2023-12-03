@@ -30,7 +30,8 @@ analog task manager
 ├── sketch v0.0.ino                 # arduino sketch 
 └── ProgramMain v0.0.py             # feasibility analysis
 ```
-<iframe width="100%" height=500px src="https://www.youtube.com/embed/XGVtSRLHYPk" frameborder="0" allowfullscreen style="border-radius: 10px;"></iframe>
+https://github.com/420Ayan420/analog-task-manager/assets/88883638/3b9f3ca7-74de-4719-a709-8c0d5185f8f3
+
 # build instructions
 ## version v0.0
 1.  Use visual studio code for python script and Ardiuno IDE for Ardiuno code.
