@@ -1,4 +1,4 @@
-# version v0.1 to be released!
+# version v0.1 to be released soon™, preview below
 https://github.com/420Ayan420/analog-task-manager/assets/88883638/63c6c09d-1d9d-4b19-8ece-d5b362b19ff9
 
 # analog-task-manager
