@@ -1,4 +1,4 @@
-# version v0.1 Released! Check below and (Releases)[https://github.com/420Ayan420/analog-task-manager/releases].
+# version v0.1 Released! Check below and Releases.
 
 # analog-task-manager
 Let's make a Analog task manager that allows us to display the CPU core loads, CPU core temperatures, CPU power consumption, GPU load, GPU temperature, GPU power consumption, and memory usage.
