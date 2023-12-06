@@ -67,7 +67,7 @@ https://github.com/420Ayan420/analog-task-manager/assets/88883638/2d228a02-a99e-
 
 Setup instructions as follows below.
 
-## setup instructions
+# setup instructions
 ## version v0.0
 This build has no executable program.
 
@@ -90,7 +90,6 @@ This build has no executable program.
 5.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures) by using `python 'ProgramMain v0.0.py'`. Ensure that the COM port in the script matches the COM port in the Arduino IDE.
 
 ## version v0.1
-## version v0.0
 1.  Use visual studio code for python script and Arduino IDE for Arduino code.
 2.  Install libraries using:
     1.  pip install pythonnet
