@@ -8,6 +8,8 @@ Let's make a Analog task manager that allows us to display the CPU core loads, C
 
 We need you! Whilst I have the necessary skills to complete this project, I do not have the time so I am looking for contributors so that this project can really reach a good level of completeness and so that we may all enjoy it.
 
+Windows version is mantained by @420Ayan420 and the Linux version is mantained by @calvindo95.
+
 # overall scope and timeline of project
 1.  Software
     1.  Create a script to read all relevant readings from from WMI (windows management instrumentation)
