@@ -25,8 +25,8 @@ We need you! Whilst I have the necessary skills to complete this project, I do n
     4. Perhaps make a program/software that can easily adapt to each system and allow the user to program what each gauge does.
     5. Add a small LCD on the gauge to allow user to change the name of the purpose of each gauge easily and without fuss.
 
-# what's been done so far
-## version v0.0
+# (windows) what's been done so far
+## windows version v0.0
 1. Feasibility analysis as proof of concept of pipeline. [see here for more information](https://ayanali.net/projects/2023-12-3-analog-task-manager/)
 ```
 analog task manager
@@ -39,7 +39,7 @@ See the following video for a demonstration of this code, the top LED lights up 
 
 https://github.com/420Ayan420/analog-task-manager/assets/88883638/63c14dab-c670-4c56-806e-0af1d9d13348
 
-## version v0.1
+## windows version v0.1
 This release contains basic functionality where:
 1. Takes CPU load and temperature values for AMD and Intel CPUs
 2. Takes GPU load and temperature values for AMD and Nvidia GPUs
@@ -49,12 +49,12 @@ This release contains basic functionality where:
 
 ```
 analog task manager
-├── v0.0                            # version v0.0
+├── windows v0.0                    # version v0.0
 |   ├── OpenHardwareMonitorLib.dll      # available through their source code
 |   ├── OpenHardwareMonitorLib.sys      # auto-produced
 |   ├── sketch v0.0.ino                 # arduino sketch 
 |   └── ProgramMain v0.0.py             # feasibility analysis
-├── v0.1                            # version v0.1
+├── windows v0.1                    # version v0.1
 |   ├── OpenHardwareMonitorLib.dll      # available through their source code
 |   ├── OpenHardwareMonitorLib.sys      # auto-produced
 |   ├── Wiring Diagram v0.1.png         # diagram for electronic circuit
@@ -70,11 +70,11 @@ https://github.com/420Ayan420/analog-task-manager/assets/88883638/2d228a02-a99e-
 
 Setup instructions as follows below.
 
-# setup instructions
-## version v0.0
+# windows setup instructions
+## windows version v0.0
 This build has no executable program.
 
-## version v0.1
+## windows version v0.1
 1.  Prepare electronic circuit as shown in the `Wiring Diagram v0.1.png`
 2.  Download and install [Arduino IDE](https://www.arduino.cc/en/software)
 3.  Place `sketch v0.1.ino` into the Arduino IDE
@@ -83,8 +83,8 @@ This build has no executable program.
 6.  Open `ProgramMain v0.1.exe` and input the same baudrate and COM port as noted from the Arduino IDE
 7.  Press read, the RX LED on your Arduino should start flashing and a voltage will be applied on PWM Digital Pin 12 (or the one that you decided on in the code)
 
-# build instructions
-## version v0.0
+# windows build instructions
+## windows version v0.0
 1.  Use visual studio code for python script and Arduino IDE for Arduino code.
 2.  Install libraries using:
     1.  pip install pythonnet
@@ -92,7 +92,7 @@ This build has no executable program.
 4.  Upload `sketch v0.0.ino` to your arduino using Arduino IDE
 5.  Run python script as administrator through terminal to ensure that CPU readings are read properly. (not required for anything other than CPU temperatures) by using `python 'ProgramMain v0.0.py'`. Ensure that the COM port in the script matches the COM port in the Arduino IDE.
 
-## version v0.1
+## windows version v0.1
 1.  Use visual studio code for python script and Arduino IDE for Arduino code.
 2.  Install libraries using:
     1.  pip install pythonnet
