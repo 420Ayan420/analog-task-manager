@@ -72,7 +72,7 @@ https://github.com/420Ayan420/analog-task-manager/assets/88883638/2d228a02-a99e-
 
 Setup instructions as follows below.
 
-# windows setup instructions
+# (windows) setup instructions
 ## windows version v0.0
 This build has no executable program.
 
@@ -85,7 +85,7 @@ This build has no executable program.
 6.  Open `ProgramMain v0.1.exe` and input the same baudrate and COM port as noted from the Arduino IDE
 7.  Press read, the RX LED on your Arduino should start flashing and a voltage will be applied on PWM Digital Pin 12 (or the one that you decided on in the code)
 
-# windows build instructions
+# (windows) build instructions
 ## windows version v0.0
 1.  Use visual studio code for python script and Arduino IDE for Arduino code.
 2.  Install libraries using:
