@@ -12,9 +12,9 @@ Windows version is mantained by @420Ayan420 and the Linux version is mantained b
 
 # overall scope and timeline of project
 1.  Software
-    1.  Create a script to read all relevant readings from from WMI (windows management instrumentation)
-    2.  Parse and process this data into a useful voltage value
-    3.  Send this processed data to an Arduino so that it can be used to control analog gauges. Also add basic code to add color changing lights.
+    1. [ ] Create a script to read all relevant readings from from WMI (windows management instrumentation)
+    2. Parse and process this data into a useful voltage value
+    3. Send this processed data to an Arduino so that it can be used to control analog gauges. Also add basic code to add color changing lights.
 2.  Hardware
     1. Take this data and send it properly to the relevant gauge using the digital PWM pins on the Arduino Mega2560.
     2. Use digital I/O pins to control the RGB lights for each gauge so that it can be red/yellow/green for the status of the gauge.
