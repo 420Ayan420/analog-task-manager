@@ -70,6 +70,8 @@ This is a generalized solution and should work on any Windows computer, the pyth
 
 https://github.com/420Ayan420/analog-task-manager/assets/88883638/2d228a02-a99e-4825-95ec-60477e4ea5f8
 
+![image](https://github.com/420Ayan420/analog-task-manager/assets/88883638/7b1c8fde-efb2-43c6-b016-40b4901faed0)
+
 Setup instructions as follows below.
 
 # (windows) setup instructions
