@@ -10,6 +10,8 @@ We need you! Whilst I have the necessary skills to complete this project, I do n
 
 Windows version is mantained by @420Ayan420 and the Linux version is mantained by @calvindo95.
 
+This project used the open-source library from [open hardware monitor](https://github.com/openhardwaremonitor/openhardwaremonitor).
+
 # overall scope and timeline of project
 1.  Software
     1. Create a script to read all relevant readings from from WMI (windows management instrumentation)
