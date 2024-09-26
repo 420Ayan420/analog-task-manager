@@ -8,11 +8,15 @@ Let's make a Analog task manager that allows us to display the CPU core loads, C
 
 We need you! Whilst I have the necessary skills to complete this project, I do not have the time so I am looking for contributors so that this project can really reach a good level of completeness and so that we may all enjoy it.
 
+Windows version is mantained by @420Ayan420 and the Linux version is mantained by @calvindo95.
+
+This project uses the open-source library from [open hardware monitor](https://github.com/openhardwaremonitor/openhardwaremonitor).
+
 # overall scope and timeline of project
 1.  Software
-    1.  Create a script to read all relevant readings from from WMI (windows management instrumentation)
-    2.  Parse and process this data into a useful voltage value
-    3.  Send this processed data to an Arduino so that it can be used to control analog gauges. Also add basic code to add color changing lights.
+    1. Create a script to read all relevant readings from from WMI (windows management instrumentation)
+    2. Parse and process this data into a useful voltage value
+    3. Send this processed data to an Arduino so that it can be used to control analog gauges. Also add basic code to add color changing lights.
 2.  Hardware
     1. Take this data and send it properly to the relevant gauge using the digital PWM pins on the Arduino Mega2560.
     2. Use digital I/O pins to control the RGB lights for each gauge so that it can be red/yellow/green for the status of the gauge.
@@ -68,9 +72,11 @@ This is a generalized solution and should work on any Windows computer, the pyth
 
 https://github.com/420Ayan420/analog-task-manager/assets/88883638/2d228a02-a99e-4825-95ec-60477e4ea5f8
 
+![image](https://github.com/420Ayan420/analog-task-manager/assets/88883638/7b1c8fde-efb2-43c6-b016-40b4901faed0)
+
 Setup instructions as follows below.
 
-# windows setup instructions
+# (windows) setup instructions
 ## windows version v0.0
 This build has no executable program.
 
@@ -83,7 +89,7 @@ This build has no executable program.
 6.  Open `ProgramMain v0.1.exe` and input the same baudrate and COM port as noted from the Arduino IDE
 7.  Press read, the RX LED on your Arduino should start flashing and a voltage will be applied on PWM Digital Pin 12 (or the one that you decided on in the code)
 
-# windows build instructions
+# (windows) build instructions
 ## windows version v0.0
 1.  Use visual studio code for python script and Arduino IDE for Arduino code.
 2.  Install libraries using:
