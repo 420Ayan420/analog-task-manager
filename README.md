@@ -8,7 +8,7 @@ Let's make a Analog task manager that allows us to display the CPU core loads, C
 
 We need you! Whilst I have the necessary skills to complete this project, I do not have the time so I am looking for contributors so that this project can really reach a good level of completeness and so that we may all enjoy it.
 
-Windows version is mantained by @420Ayan420 and the Linux version is mantained by @calvindo95.
+Windows version is mantained by @ayan20985 and the Linux version is mantained by @calvindo95.
 
 This project uses the open-source library from [open hardware monitor](https://github.com/openhardwaremonitor/openhardwaremonitor).
 
@@ -31,7 +31,7 @@ This project uses the open-source library from [open hardware monitor](https://g
 
 # (windows) what's been done so far
 ## windows version v0.0
-1. Feasibility analysis as proof of concept of pipeline. [see here for more information](https://ayanali.net/projects/2023-12-3-analog-task-manager/)
+1. Feasibility analysis as proof of concept of pipeline. [see here for more information](https://old.ayanali.net/projects/2023-12-3-analog-task-manager/)
 ```
 analog task manager
 ├── OpenHardwareMonitorLib.dll      # available through their source code
